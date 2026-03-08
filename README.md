@@ -56,6 +56,7 @@ Start with these files:
 Useful docs:
 
 - `docs/architecture.md`
+- `docs/oracle-e2-audit.md`
 - `docs/runbook.md`
 - `docs/server-audit-template.md`
 - `docs/opcl-checklist.md`

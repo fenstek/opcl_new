@@ -26,6 +26,7 @@ Use these during audits and after changes:
 
 Templates and checklists:
 
+- `docs/oracle-e2-audit.md`
 - `docs/server-audit-template.md`
 - `docs/opcl-checklist.md`
 
