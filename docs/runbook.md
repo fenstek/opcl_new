@@ -24,6 +24,11 @@ Use these during audits and after changes:
 - `df -h`
 - `free -m`
 
+Templates and checklists:
+
+- `docs/server-audit-template.md`
+- `docs/opcl-checklist.md`
+
 ## Standard Change Flow
 
 ### 1. Audit

@@ -57,6 +57,8 @@ Useful docs:
 
 - `docs/architecture.md`
 - `docs/runbook.md`
+- `docs/server-audit-template.md`
+- `docs/opcl-checklist.md`
 - `memory/system_map.md`
 - `memory/host_access.md`
 
