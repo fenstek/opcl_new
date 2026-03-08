@@ -2,6 +2,8 @@
 
 This repository manages the OpenClaw operational environment on host `opcl`.
 
+Кратко: это репозиторий для эксплуатации и стабилизации OpenClaw на сервере `opcl`.
+
 ## Purpose
 
 - stabilize the OpenClaw deployment
@@ -65,3 +67,15 @@ Useful docs:
 - verify Matrix routing
 - improve documentation
 - automate operations safely
+
+## Быстрый Старт
+
+Перед началом работы откройте:
+
+- `AGENTS.md`
+- `memory/project_state.md`
+- `NEXT_STEPS.md`
+- `HANDOFF.md`
+- `START_SESSION.md`
+
+Если задача связана с инфраструктурой, сначала выполните аудит и только потом вносите изменения.

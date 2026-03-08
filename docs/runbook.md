@@ -2,6 +2,8 @@
 
 This document records operational procedures for the OpenClaw environment on `opcl`.
 
+Кратко: сначала аудит, потом минимальное изменение, затем проверка и обновление документации.
+
 ## Safety Checklist
 
 Before changing infrastructure:
@@ -67,3 +69,9 @@ Treat these as high-risk and audit first:
 - Matrix routing verification
 - deployment stabilization tasks
 - automation hardening
+
+## Быстрые Правила
+
+- не менять критичные сетевые и системные настройки без предварительного аудита
+- перед изменением сохранять исходную конфигурацию
+- после изменения обязательно проверять состояние сервиса и логи
