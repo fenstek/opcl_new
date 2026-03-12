@@ -40,6 +40,10 @@ Documentation:
 - `docs/server-audit-template.md`
 - `docs/opcl-checklist.md`
 
+Third-party imports:
+
+- `third_party/oci-arm-host-capacity`
+
 Local Codex config:
 
 - `.codex/bootstrap.md`
