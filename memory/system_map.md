@@ -55,6 +55,12 @@ Local repository skills:
 - `skills/safe-ops-change`
 - `skills/handoff-writer`
 - `skills/server-audit`
+- `skills/web-search-research`
+- `skills/seo-analyst`
+- `skills/google-search-console`
+- `skills/webmaster`
+- `skills/web-designer`
+- `skills/web-programmer`
 
 ## Host layout
 
@@ -85,6 +91,7 @@ Ops-agent runtime paths:
 
 - `/opt/openclaw/state/ops-agent/queue/`
 - `/opt/openclaw/state/ops-agent/results/`
+- `/opt/openclaw/state/credentials/gsc/`
 
 ## oracle-e2 layout
 
@@ -139,6 +146,12 @@ Observed Element note:
 - `agent-kolia` -> Matrix account `claude_bot`
 - `agent-sonnet` -> Matrix account `sonnet`
 - `agent-petya` -> Matrix account `petya`
+
+Observed and planned capability note:
+
+- `agent-kolia` is the planned web-research and SEO-analysis agent profile
+- local `searxng` on `opcl` is the intended search backend for that role
+- `agent-petya` is the planned webmaster, web-designer, and web-programmer profile with `exec` access on `gateway`
 
 ## Matrix identities
 
