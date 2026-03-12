@@ -57,6 +57,7 @@ Useful docs:
 
 - `docs/architecture.md`
 - `docs/infrastructure-map.md`
+- `docs/messaging-topology.md`
 - `docs/opcl-audit.md`
 - `docs/oracle-e2-audit.md`
 - `docs/runbook.md`

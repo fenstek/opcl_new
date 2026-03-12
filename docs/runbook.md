@@ -27,6 +27,7 @@ Use these during audits and after changes:
 Templates and checklists:
 
 - `docs/infrastructure-map.md`
+- `docs/messaging-topology.md`
 - `docs/opcl-audit.md`
 - `docs/oracle-e2-audit.md`
 - `docs/server-audit-template.md`
