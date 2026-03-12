@@ -6,3 +6,5 @@ Desktop.ini
 .vscode/
 
 *.log
+
+third_party/oci-arm-host-capacity/.upstream-git-metadata/
